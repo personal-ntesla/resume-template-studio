@@ -1,14 +1,15 @@
 {
-  "name": "resume-template-studio-parsed-library",
+  "name": "resume-template-studio-deployable-bun",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -b --pretty false",
-    "check:assets": "bun scripts/check-assets.mjs"
+    "check:assets": "bun scripts/check-assets.mjs",
+    "verify:pages": "bun scripts/verify-pages-build.mjs"
   },
   "dependencies": {
     "react": "^19.2.0",
