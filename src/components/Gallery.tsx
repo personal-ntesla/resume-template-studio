@@ -33,7 +33,7 @@ export function Gallery({ onOpen }: GalleryProps) {
       <header className="gallery-hero">
         <div>
           <span className="eyebrow">PARSED TEMPLATE LIBRARY</span>
-          <h1>简历模板工作台</h1>
+          <h1>简历模板库-在线生成简历</h1>
           <p>已载入 {templates.length} 套真实文档渲染模板。缩略图与编辑页使用同一份解析页面底图，不再跳转到通用紫色简历。</p>
         </div>
         <div className="gallery-hero__stats">

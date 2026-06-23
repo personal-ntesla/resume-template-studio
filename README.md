@@ -1,4 +1,4 @@
-# 简历模板工作台（Bun / GitHub Pages 完整部署版）
+# 简历模板库-在线生成简历（Bun / GitHub Pages 完整部署版）
 
 这个项目已包含真实解析模板资产、图片/个人照片替换、Bun 运行配置，以及 GitHub Pages 自动部署工作流。
 
