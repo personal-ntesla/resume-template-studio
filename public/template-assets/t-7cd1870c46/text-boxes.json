@@ -1,0 +1,1460 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.303937,
+      "height": 841.889764,
+      "words": [
+        {
+          "text": "Objective：Front-end",
+          "xMin": 359.6,
+          "yMin": 41.946,
+          "xMax": 490.122,
+          "yMax": 55.3
+        },
+        {
+          "text": "Engineer",
+          "xMin": 493.873,
+          "yMin": 41.946,
+          "xMax": 548.565,
+          "yMax": 55.3
+        },
+        {
+          "text": "(+86)",
+          "xMin": 430.55,
+          "yMin": 55.448,
+          "xMax": 461.987,
+          "yMax": 68.195
+        },
+        {
+          "text": "138-0013-8000",
+          "xMin": 465.651,
+          "yMin": 55.448,
+          "xMax": 548.528,
+          "yMax": 68.195
+        },
+        {
+          "text": "service@aaronedu.com",
+          "xMin": 425.75,
+          "yMin": 68.448,
+          "xMax": 548.651,
+          "yMax": 81.195
+        },
+        {
+          "text": "wechat:xiaowangzi",
+          "xMin": 448.35,
+          "yMin": 81.448,
+          "xMax": 548.586,
+          "yMax": 94.195
+        },
+        {
+          "text": "Aaron",
+          "xMin": 42.45,
+          "yMin": 42.591,
+          "xMax": 115.864,
+          "yMax": 69.299
+        },
+        {
+          "text": "Fang",
+          "xMin": 126.9,
+          "yMin": 42.591,
+          "xMax": 186.894,
+          "yMax": 69.299
+        },
+        {
+          "text": "TECHNICAL",
+          "xMin": 42.45,
+          "yMin": 102.746,
+          "xMax": 113.411,
+          "yMax": 116.1
+        },
+        {
+          "text": "SKILLS",
+          "xMin": 117.151,
+          "yMin": 102.746,
+          "xMax": 161.239,
+          "yMax": 116.1
+        },
+        {
+          "text": "Assembler",
+          "xMin": 152.8,
+          "yMin": 130.448,
+          "xMax": 207.484,
+          "yMax": 143.195
+        },
+        {
+          "text": "Language:",
+          "xMin": 211.149,
+          "yMin": 130.448,
+          "xMax": 266.956,
+          "yMax": 143.195
+        },
+        {
+          "text": "HTML,",
+          "xMin": 270.62,
+          "yMin": 130.448,
+          "xMax": 303.443,
+          "yMax": 143.195
+        },
+        {
+          "text": "CSS,",
+          "xMin": 307.129,
+          "yMin": 130.448,
+          "xMax": 332.434,
+          "yMax": 143.195
+        },
+        {
+          "text": "JS,",
+          "xMin": 336.109,
+          "yMin": 130.448,
+          "xMax": 351.754,
+          "yMax": 143.195
+        },
+        {
+          "text": "C++,",
+          "xMin": 355.429,
+          "yMin": 130.448,
+          "xMax": 383.758,
+          "yMax": 143.195
+        },
+        {
+          "text": "Flash/Flex,",
+          "xMin": 387.433,
+          "yMin": 130.448,
+          "xMax": 444.668,
+          "yMax": 143.195
+        },
+        {
+          "text": "Silverlight,",
+          "xMin": 448.344,
+          "yMin": 130.448,
+          "xMax": 504.97,
+          "yMax": 143.195
+        },
+        {
+          "text": "XML",
+          "xMin": 508.645,
+          "yMin": 130.448,
+          "xMax": 530.516,
+          "yMax": 143.195
+        },
+        {
+          "text": "Web",
+          "xMin": 152.8,
+          "yMin": 148.448,
+          "xMax": 175.428,
+          "yMax": 161.195
+        },
+        {
+          "text": "editor:",
+          "xMin": 179.113,
+          "yMin": 148.448,
+          "xMax": 214.498,
+          "yMax": 161.195
+        },
+        {
+          "text": "Adobe",
+          "xMin": 218.162,
+          "yMin": 148.448,
+          "xMax": 251.038,
+          "yMax": 161.195
+        },
+        {
+          "text": "Dreamweaver,",
+          "xMin": 254.724,
+          "yMin": 148.448,
+          "xMax": 330.208,
+          "yMax": 161.195
+        },
+        {
+          "text": "Frontpage,",
+          "xMin": 333.914,
+          "yMin": 148.448,
+          "xMax": 390.982,
+          "yMax": 161.195
+        },
+        {
+          "text": "CSSDesk,",
+          "xMin": 394.657,
+          "yMin": 148.448,
+          "xMax": 446.023,
+          "yMax": 161.195
+        },
+        {
+          "text": "Drawter",
+          "xMin": 449.74,
+          "yMin": 148.448,
+          "xMax": 491.803,
+          "yMax": 161.195
+        },
+        {
+          "text": "Database",
+          "xMin": 152.8,
+          "yMin": 166.448,
+          "xMax": 202.171,
+          "yMax": 179.195
+        },
+        {
+          "text": "software:",
+          "xMin": 205.857,
+          "yMin": 166.448,
+          "xMax": 255.784,
+          "yMax": 179.195
+        },
+        {
+          "text": "Oracle,",
+          "xMin": 259.449,
+          "yMin": 166.448,
+          "xMax": 296.692,
+          "yMax": 179.195
+        },
+        {
+          "text": "SQL",
+          "xMin": 300.409,
+          "yMin": 166.448,
+          "xMax": 321.651,
+          "yMax": 179.195
+        },
+        {
+          "text": "Sever,",
+          "xMin": 325.336,
+          "yMin": 166.448,
+          "xMax": 357.938,
+          "yMax": 179.195
+        },
+        {
+          "text": "Access",
+          "xMin": 361.613,
+          "yMin": 166.448,
+          "xMax": 396.904,
+          "yMax": 179.195
+        },
+        {
+          "text": "Programming",
+          "xMin": 152.8,
+          "yMin": 184.448,
+          "xMax": 223.538,
+          "yMax": 197.195
+        },
+        {
+          "text": "software:",
+          "xMin": 227.224,
+          "yMin": 184.448,
+          "xMax": 277.162,
+          "yMax": 197.195
+        },
+        {
+          "text": "Delphi,",
+          "xMin": 280.827,
+          "yMin": 184.448,
+          "xMax": 317.881,
+          "yMax": 197.195
+        },
+        {
+          "text": "VC++",
+          "xMin": 321.556,
+          "yMin": 184.448,
+          "xMax": 353.224,
+          "yMax": 197.195
+        },
+        {
+          "text": "Operating",
+          "xMin": 152.8,
+          "yMin": 202.448,
+          "xMax": 204.596,
+          "yMax": 215.195
+        },
+        {
+          "text": "system:",
+          "xMin": 208.282,
+          "yMin": 202.448,
+          "xMax": 250.765,
+          "yMax": 215.195
+        },
+        {
+          "text": "Windows,",
+          "xMin": 254.429,
+          "yMin": 202.448,
+          "xMax": 305.082,
+          "yMax": 215.195
+        },
+        {
+          "text": "Linux,",
+          "xMin": 308.757,
+          "yMin": 202.448,
+          "xMax": 340.771,
+          "yMax": 215.195
+        },
+        {
+          "text": "Unix,",
+          "xMin": 344.446,
+          "yMin": 202.448,
+          "xMax": 371.63,
+          "yMax": 215.195
+        },
+        {
+          "text": "iOS",
+          "xMin": 375.348,
+          "yMin": 202.448,
+          "xMax": 393.618,
+          "yMax": 215.195
+        },
+        {
+          "text": "Photoshop",
+          "xMin": 152.8,
+          "yMin": 220.448,
+          "xMax": 207.6,
+          "yMax": 233.195
+        },
+        {
+          "text": "certificate,",
+          "xMin": 211.285,
+          "yMin": 220.448,
+          "xMax": 266.988,
+          "yMax": 233.195
+        },
+        {
+          "text": "Web",
+          "xMin": 270.704,
+          "yMin": 220.448,
+          "xMax": 293.332,
+          "yMax": 233.195
+        },
+        {
+          "text": "designers",
+          "xMin": 297.017,
+          "yMin": 220.448,
+          "xMax": 347.481,
+          "yMax": 233.195
+        },
+        {
+          "text": "certificate",
+          "xMin": 351.166,
+          "yMin": 220.448,
+          "xMax": 403.089,
+          "yMax": 233.195
+        },
+        {
+          "text": "F2E",
+          "xMin": 42.45,
+          "yMin": 244.946,
+          "xMax": 64.912,
+          "yMax": 258.3
+        },
+        {
+          "text": "RELATED",
+          "xMin": 68.652,
+          "yMin": 244.946,
+          "xMax": 124.444,
+          "yMax": 258.3
+        },
+        {
+          "text": "EXPERIENCE",
+          "xMin": 128.206,
+          "yMin": 244.946,
+          "xMax": 206.581,
+          "yMax": 258.3
+        },
+        {
+          "text": "2013.03-2013.06",
+          "xMin": 42.45,
+          "yMin": 273.451,
+          "xMax": 121.326,
+          "yMax": 286.114
+        },
+        {
+          "text": "Qihang",
+          "xMin": 152.8,
+          "yMin": 273.398,
+          "xMax": 194.579,
+          "yMax": 286.145
+        },
+        {
+          "text": "Star",
+          "xMin": 198.171,
+          "yMin": 273.398,
+          "xMax": 222.636,
+          "yMax": 286.145
+        },
+        {
+          "text": "Ltd.,",
+          "xMin": 226.206,
+          "yMin": 273.398,
+          "xMax": 252.56,
+          "yMax": 286.145
+        },
+        {
+          "text": "corporation",
+          "xMin": 256.151,
+          "yMin": 273.398,
+          "xMax": 324.538,
+          "yMax": 286.145
+        },
+        {
+          "text": "PHP",
+          "xMin": 368.05,
+          "yMin": 273.398,
+          "xMax": 392.179,
+          "yMax": 286.145
+        },
+        {
+          "text": "Development",
+          "xMin": 395.77,
+          "yMin": 273.398,
+          "xMax": 473.701,
+          "yMax": 286.145
+        },
+        {
+          "text": "Engineer",
+          "xMin": 477.26,
+          "yMin": 273.398,
+          "xMax": 529.456,
+          "yMax": 286.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 292.522,
+          "xMax": 160.633,
+          "yMax": 304.156
+        },
+        {
+          "text": "Demonstrated",
+          "xMin": 163.8,
+          "yMin": 291.398,
+          "xMax": 238.434,
+          "yMax": 304.145
+        },
+        {
+          "text": "development",
+          "xMin": 242.119,
+          "yMin": 291.398,
+          "xMax": 310.254,
+          "yMax": 304.145
+        },
+        {
+          "text": "and",
+          "xMin": 313.94,
+          "yMin": 291.398,
+          "xMax": 333.417,
+          "yMax": 304.145
+        },
+        {
+          "text": "audit",
+          "xMin": 337.103,
+          "yMin": 291.398,
+          "xMax": 363.562,
+          "yMax": 304.145
+        },
+        {
+          "text": "programming",
+          "xMin": 367.248,
+          "yMin": 291.398,
+          "xMax": 438.228,
+          "yMax": 304.145
+        },
+        {
+          "text": "role",
+          "xMin": 441.872,
+          "yMin": 291.398,
+          "xMax": 461.853,
+          "yMax": 304.145
+        },
+        {
+          "text": "using",
+          "xMin": 465.538,
+          "yMin": 291.398,
+          "xMax": 493.689,
+          "yMax": 304.145
+        },
+        {
+          "text": "ClearCase,",
+          "xMin": 163.8,
+          "yMin": 309.398,
+          "xMax": 220.174,
+          "yMax": 322.145
+        },
+        {
+          "text": "ClearQuest,",
+          "xMin": 223.85,
+          "yMin": 309.398,
+          "xMax": 285.652,
+          "yMax": 322.145
+        },
+        {
+          "text": "FTR,",
+          "xMin": 289.327,
+          "yMin": 309.398,
+          "xMax": 313.068,
+          "yMax": 322.145
+        },
+        {
+          "text": "MetroWerks,",
+          "xMin": 316.743,
+          "yMin": 309.398,
+          "xMax": 382.904,
+          "yMax": 322.145
+        },
+        {
+          "text": "Lint,",
+          "xMin": 386.579,
+          "yMin": 309.398,
+          "xMax": 409.846,
+          "yMax": 322.145
+        },
+        {
+          "text": "ATT,",
+          "xMin": 413.563,
+          "yMin": 309.398,
+          "xMax": 435.036,
+          "yMax": 322.145
+        },
+        {
+          "text": "and",
+          "xMin": 438.7,
+          "yMin": 309.398,
+          "xMax": 458.178,
+          "yMax": 322.145
+        },
+        {
+          "text": "Code",
+          "xMin": 461.863,
+          "yMin": 309.398,
+          "xMax": 488.344,
+          "yMax": 322.145
+        },
+        {
+          "text": "Warrior",
+          "xMin": 491.998,
+          "yMin": 309.398,
+          "xMax": 530.848,
+          "yMax": 322.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 328.522,
+          "xMax": 160.633,
+          "yMax": 340.156
+        },
+        {
+          "text": "Completed",
+          "xMin": 163.8,
+          "yMin": 327.398,
+          "xMax": 220.248,
+          "yMax": 340.145
+        },
+        {
+          "text": "project",
+          "xMin": 223.934,
+          "yMin": 327.398,
+          "xMax": 260.799,
+          "yMax": 340.145
+        },
+        {
+          "text": "deliverables",
+          "xMin": 264.442,
+          "yMin": 327.398,
+          "xMax": 327.096,
+          "yMax": 340.145
+        },
+        {
+          "text": "for",
+          "xMin": 330.771,
+          "yMin": 327.398,
+          "xMax": 345.282,
+          "yMax": 340.145
+        },
+        {
+          "text": "Change/Configuration",
+          "xMin": 348.988,
+          "yMin": 327.398,
+          "xMax": 464.026,
+          "yMax": 340.145
+        },
+        {
+          "text": "Management",
+          "xMin": 467.712,
+          "yMin": 327.398,
+          "xMax": 535.804,
+          "yMax": 340.145
+        },
+        {
+          "text": "and",
+          "xMin": 163.8,
+          "yMin": 345.398,
+          "xMax": 183.278,
+          "yMax": 358.145
+        },
+        {
+          "text": "Development",
+          "xMin": 186.921,
+          "yMin": 345.398,
+          "xMax": 256.641,
+          "yMax": 358.145
+        },
+        {
+          "text": "Environment",
+          "xMin": 260.295,
+          "yMin": 345.398,
+          "xMax": 327.274,
+          "yMax": 358.145
+        },
+        {
+          "text": "2012.07-2012.12",
+          "xMin": 42.45,
+          "yMin": 363.451,
+          "xMax": 121.326,
+          "yMax": 376.114
+        },
+        {
+          "text": "Building",
+          "xMin": 152.8,
+          "yMin": 363.398,
+          "xMax": 201.131,
+          "yMax": 376.145
+        },
+        {
+          "text": "Unlimited",
+          "xMin": 204.68,
+          "yMin": 363.398,
+          "xMax": 261.611,
+          "yMax": 376.145
+        },
+        {
+          "text": "Project",
+          "xMin": 373.3,
+          "yMin": 363.398,
+          "xMax": 415.552,
+          "yMax": 376.145
+        },
+        {
+          "text": "Leader",
+          "xMin": 419.111,
+          "yMin": 363.398,
+          "xMax": 459.295,
+          "yMax": 376.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 382.522,
+          "xMax": 160.633,
+          "yMax": 394.156
+        },
+        {
+          "text": "Delivered",
+          "xMin": 163.8,
+          "yMin": 381.398,
+          "xMax": 213.507,
+          "yMax": 394.145
+        },
+        {
+          "text": "three",
+          "xMin": 217.192,
+          "yMin": 381.398,
+          "xMax": 244.912,
+          "yMax": 394.145
+        },
+        {
+          "text": "large",
+          "xMin": 248.598,
+          "yMin": 381.398,
+          "xMax": 275.026,
+          "yMax": 394.145
+        },
+        {
+          "text": "web",
+          "xMin": 278.712,
+          "yMin": 381.398,
+          "xMax": 300.09,
+          "yMax": 394.145
+        },
+        {
+          "text": "projects",
+          "xMin": 303.776,
+          "yMin": 381.398,
+          "xMax": 346.059,
+          "yMax": 394.145
+        },
+        {
+          "text": "based",
+          "xMin": 349.734,
+          "yMin": 381.398,
+          "xMax": 380.856,
+          "yMax": 394.145
+        },
+        {
+          "text": "on",
+          "xMin": 384.51,
+          "yMin": 381.398,
+          "xMax": 397.541,
+          "yMax": 394.145
+        },
+        {
+          "text": "Microsoft",
+          "xMin": 401.226,
+          "yMin": 381.398,
+          "xMax": 448.885,
+          "yMax": 394.145
+        },
+        {
+          "text": "Solutions",
+          "xMin": 452.571,
+          "yMin": 381.398,
+          "xMax": 501.07,
+          "yMax": 394.145
+        },
+        {
+          "text": "Framework",
+          "xMin": 163.8,
+          "yMin": 399.398,
+          "xMax": 222.516,
+          "yMax": 412.145
+        },
+        {
+          "text": "and",
+          "xMin": 226.191,
+          "yMin": 399.398,
+          "xMax": 245.668,
+          "yMax": 412.145
+        },
+        {
+          "text": "the",
+          "xMin": 249.312,
+          "yMin": 399.398,
+          "xMax": 266.332,
+          "yMax": 412.145
+        },
+        {
+          "text": "Rational",
+          "xMin": 270.018,
+          "yMin": 399.398,
+          "xMax": 312.606,
+          "yMax": 412.145
+        },
+        {
+          "text": "Unified",
+          "xMin": 316.26,
+          "yMin": 399.398,
+          "xMax": 352.789,
+          "yMax": 412.145
+        },
+        {
+          "text": "Process",
+          "xMin": 356.475,
+          "yMin": 399.398,
+          "xMax": 396.27,
+          "yMax": 412.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 418.522,
+          "xMax": 160.633,
+          "yMax": 430.156
+        },
+        {
+          "text": "Developed",
+          "xMin": 163.8,
+          "yMin": 417.398,
+          "xMax": 219.072,
+          "yMax": 430.145
+        },
+        {
+          "text": "web",
+          "xMin": 222.757,
+          "yMin": 417.398,
+          "xMax": 244.136,
+          "yMax": 430.145
+        },
+        {
+          "text": "sites",
+          "xMin": 247.779,
+          "yMin": 417.398,
+          "xMax": 271.961,
+          "yMax": 430.145
+        },
+        {
+          "text": "using",
+          "xMin": 275.646,
+          "yMin": 417.398,
+          "xMax": 303.796,
+          "yMax": 430.145
+        },
+        {
+          "text": "ASP,",
+          "xMin": 307.482,
+          "yMin": 417.398,
+          "xMax": 330.372,
+          "yMax": 430.145
+        },
+        {
+          "text": "client-side",
+          "xMin": 334.058,
+          "yMin": 417.398,
+          "xMax": 387.975,
+          "yMax": 430.145
+        },
+        {
+          "text": "JavaScript,",
+          "xMin": 391.629,
+          "yMin": 417.398,
+          "xMax": 449.432,
+          "yMax": 430.145
+        },
+        {
+          "text": "XML",
+          "xMin": 453.106,
+          "yMin": 417.398,
+          "xMax": 474.978,
+          "yMax": 430.145
+        },
+        {
+          "text": "and",
+          "xMin": 478.622,
+          "yMin": 417.398,
+          "xMax": 498.099,
+          "yMax": 430.145
+        },
+        {
+          "text": "XSL",
+          "xMin": 501.784,
+          "yMin": 417.398,
+          "xMax": 521.966,
+          "yMax": 430.145
+        },
+        {
+          "text": "and",
+          "xMin": 525.651,
+          "yMin": 417.398,
+          "xMax": 545.129,
+          "yMax": 430.145
+        },
+        {
+          "text": "produced",
+          "xMin": 163.8,
+          "yMin": 435.398,
+          "xMax": 212.604,
+          "yMax": 448.145
+        },
+        {
+          "text": "the",
+          "xMin": 216.248,
+          "yMin": 435.398,
+          "xMax": 233.268,
+          "yMax": 448.145
+        },
+        {
+          "text": "graphical",
+          "xMin": 236.953,
+          "yMin": 435.398,
+          "xMax": 284.771,
+          "yMax": 448.145
+        },
+        {
+          "text": "look",
+          "xMin": 288.425,
+          "yMin": 435.398,
+          "xMax": 310.264,
+          "yMax": 448.145
+        },
+        {
+          "text": "using",
+          "xMin": 313.94,
+          "yMin": 435.398,
+          "xMax": 342.09,
+          "yMax": 448.145
+        },
+        {
+          "text": "Adobe",
+          "xMin": 345.733,
+          "yMin": 435.398,
+          "xMax": 378.609,
+          "yMax": 448.145
+        },
+        {
+          "text": "Photoshop",
+          "xMin": 382.295,
+          "yMin": 435.398,
+          "xMax": 437.147,
+          "yMax": 448.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 454.522,
+          "xMax": 160.633,
+          "yMax": 466.156
+        },
+        {
+          "text": "Website:",
+          "xMin": 163.8,
+          "yMin": 453.398,
+          "xMax": 209.916,
+          "yMax": 466.145
+        },
+        {
+          "text": "http://www.dormforce.net/",
+          "xMin": 213.581,
+          "yMin": 453.398,
+          "xMax": 357.935,
+          "yMax": 466.145
+        },
+        {
+          "text": "2011.09-2012.08",
+          "xMin": 42.45,
+          "yMin": 471.451,
+          "xMax": 121.326,
+          "yMax": 484.114
+        },
+        {
+          "text": "CRM",
+          "xMin": 152.8,
+          "yMin": 471.398,
+          "xMax": 178.536,
+          "yMax": 484.145
+        },
+        {
+          "text": "management",
+          "xMin": 189.014,
+          "yMin": 471.398,
+          "xMax": 266.252,
+          "yMax": 484.145
+        },
+        {
+          "text": "system",
+          "xMin": 269.812,
+          "yMin": 471.398,
+          "xMax": 311.938,
+          "yMax": 484.145
+        },
+        {
+          "text": "Database",
+          "xMin": 320.8,
+          "yMin": 471.398,
+          "xMax": 375.851,
+          "yMax": 484.145
+        },
+        {
+          "text": "&",
+          "xMin": 379.421,
+          "yMin": 471.398,
+          "xMax": 388.473,
+          "yMax": 484.145
+        },
+        {
+          "text": "Web",
+          "xMin": 392.063,
+          "yMin": 471.398,
+          "xMax": 418.198,
+          "yMax": 484.145
+        },
+        {
+          "text": "Design",
+          "xMin": 421.789,
+          "yMin": 471.398,
+          "xMax": 462.088,
+          "yMax": 484.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 490.522,
+          "xMax": 160.633,
+          "yMax": 502.156
+        },
+        {
+          "text": "Analyzed",
+          "xMin": 163.8,
+          "yMin": 489.398,
+          "xMax": 211.208,
+          "yMax": 502.145
+        },
+        {
+          "text": "visualization",
+          "xMin": 214.893,
+          "yMin": 489.398,
+          "xMax": 279.951,
+          "yMax": 502.145
+        },
+        {
+          "text": "of",
+          "xMin": 283.605,
+          "yMin": 489.398,
+          "xMax": 293.685,
+          "yMax": 502.145
+        },
+        {
+          "text": "topological",
+          "xMin": 297.37,
+          "yMin": 489.398,
+          "xMax": 354.05,
+          "yMax": 502.145
+        },
+        {
+          "text": "and",
+          "xMin": 357.745,
+          "yMin": 489.398,
+          "xMax": 377.223,
+          "yMax": 502.145
+        },
+        {
+          "text": "spatial",
+          "xMin": 380.866,
+          "yMin": 489.398,
+          "xMax": 415.359,
+          "yMax": 502.145
+        },
+        {
+          "text": "relationships",
+          "xMin": 419.055,
+          "yMin": 489.398,
+          "xMax": 485.93,
+          "yMax": 502.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 508.522,
+          "xMax": 160.633,
+          "yMax": 520.156
+        },
+        {
+          "text": "Conducted",
+          "xMin": 163.8,
+          "yMin": 507.398,
+          "xMax": 219.649,
+          "yMax": 520.145
+        },
+        {
+          "text": "pilot",
+          "xMin": 223.335,
+          "yMin": 507.398,
+          "xMax": 246.141,
+          "yMax": 520.145
+        },
+        {
+          "text": "experiments",
+          "xMin": 249.785,
+          "yMin": 507.398,
+          "xMax": 315.074,
+          "yMax": 520.145
+        },
+        {
+          "text": "related",
+          "xMin": 318.748,
+          "yMin": 507.398,
+          "xMax": 355.562,
+          "yMax": 520.145
+        },
+        {
+          "text": "to",
+          "xMin": 359.247,
+          "yMin": 507.398,
+          "xMax": 369.747,
+          "yMax": 520.145
+        },
+        {
+          "text": "expertise",
+          "xMin": 373.422,
+          "yMin": 507.398,
+          "xMax": 421.869,
+          "yMax": 520.145
+        },
+        {
+          "text": "and",
+          "xMin": 425.555,
+          "yMin": 507.398,
+          "xMax": 445.032,
+          "yMax": 520.145
+        },
+        {
+          "text": "cognitive",
+          "xMin": 448.686,
+          "yMin": 507.398,
+          "xMax": 495.925,
+          "yMax": 520.145
+        },
+        {
+          "text": "psychology",
+          "xMin": 163.8,
+          "yMin": 525.398,
+          "xMax": 222.358,
+          "yMax": 538.145
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 544.522,
+          "xMax": 160.633,
+          "yMax": 556.156
+        },
+        {
+          "text": "Demonstrated",
+          "xMin": 163.8,
+          "yMin": 543.398,
+          "xMax": 238.434,
+          "yMax": 556.145
+        },
+        {
+          "text": "development",
+          "xMin": 242.119,
+          "yMin": 543.398,
+          "xMax": 310.254,
+          "yMax": 556.145
+        },
+        {
+          "text": "and",
+          "xMin": 313.94,
+          "yMin": 543.398,
+          "xMax": 333.417,
+          "yMax": 556.145
+        },
+        {
+          "text": "audit",
+          "xMin": 337.103,
+          "yMin": 543.398,
+          "xMax": 363.562,
+          "yMax": 556.145
+        },
+        {
+          "text": "programming",
+          "xMin": 367.248,
+          "yMin": 543.398,
+          "xMax": 438.228,
+          "yMax": 556.145
+        },
+        {
+          "text": "role",
+          "xMin": 441.872,
+          "yMin": 543.398,
+          "xMax": 461.853,
+          "yMax": 556.145
+        },
+        {
+          "text": "using",
+          "xMin": 465.538,
+          "yMin": 543.398,
+          "xMax": 493.689,
+          "yMax": 556.145
+        },
+        {
+          "text": "ClearCase,",
+          "xMin": 163.8,
+          "yMin": 561.398,
+          "xMax": 220.174,
+          "yMax": 574.145
+        },
+        {
+          "text": "ClearQuest,",
+          "xMin": 223.85,
+          "yMin": 561.398,
+          "xMax": 285.652,
+          "yMax": 574.145
+        },
+        {
+          "text": "FTR,",
+          "xMin": 289.327,
+          "yMin": 561.398,
+          "xMax": 313.068,
+          "yMax": 574.145
+        },
+        {
+          "text": "MetroWerks,",
+          "xMin": 316.743,
+          "yMin": 561.398,
+          "xMax": 382.904,
+          "yMax": 574.145
+        },
+        {
+          "text": "Lint,",
+          "xMin": 386.579,
+          "yMin": 561.398,
+          "xMax": 409.846,
+          "yMax": 574.145
+        },
+        {
+          "text": "ATT,",
+          "xMin": 413.563,
+          "yMin": 561.398,
+          "xMax": 435.036,
+          "yMax": 574.145
+        },
+        {
+          "text": "and",
+          "xMin": 438.7,
+          "yMin": 561.398,
+          "xMax": 458.178,
+          "yMax": 574.145
+        },
+        {
+          "text": "Code",
+          "xMin": 461.863,
+          "yMin": 561.398,
+          "xMax": 488.344,
+          "yMax": 574.145
+        },
+        {
+          "text": "Warrior",
+          "xMin": 491.998,
+          "yMin": 561.398,
+          "xMax": 530.848,
+          "yMax": 574.145
+        },
+        {
+          "text": "EDUCATION",
+          "xMin": 42.45,
+          "yMin": 586.646,
+          "xMax": 116.623,
+          "yMax": 600.0
+        },
+        {
+          "text": "BACKGOUND",
+          "xMin": 120.396,
+          "yMin": 586.646,
+          "xMax": 199.343,
+          "yMax": 600.0
+        },
+        {
+          "text": "2010.09-2014.06",
+          "xMin": 42.45,
+          "yMin": 615.151,
+          "xMax": 121.231,
+          "yMax": 627.814
+        },
+        {
+          "text": "Jobs",
+          "xMin": 152.8,
+          "yMin": 615.098,
+          "xMax": 179.365,
+          "yMax": 627.845
+        },
+        {
+          "text": "University",
+          "xMin": 182.924,
+          "yMin": 615.098,
+          "xMax": 242.922,
+          "yMax": 627.845
+        },
+        {
+          "text": "Bachelor",
+          "xMin": 284.05,
+          "yMin": 615.098,
+          "xMax": 335.637,
+          "yMax": 627.845
+        },
+        {
+          "text": "of",
+          "xMin": 339.207,
+          "yMin": 615.098,
+          "xMax": 350.872,
+          "yMax": 627.845
+        },
+        {
+          "text": "Science",
+          "xMin": 354.432,
+          "yMin": 615.098,
+          "xMax": 399.224,
+          "yMax": 627.845
+        },
+        {
+          "text": "in",
+          "xMin": 402.795,
+          "yMin": 615.098,
+          "xMax": 413.861,
+          "yMax": 627.845
+        },
+        {
+          "text": "Computer",
+          "xMin": 417.463,
+          "yMin": 615.098,
+          "xMax": 475.15,
+          "yMax": 627.845
+        },
+        {
+          "text": "Science",
+          "xMin": 478.72,
+          "yMin": 615.098,
+          "xMax": 523.524,
+          "yMax": 627.845
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 634.222,
+          "xMax": 160.633,
+          "yMax": 645.856
+        },
+        {
+          "text": "GPA:",
+          "xMin": 163.8,
+          "yMin": 633.098,
+          "xMax": 189.903,
+          "yMax": 645.845
+        },
+        {
+          "text": "3.6/4.0",
+          "xMin": 193.609,
+          "yMin": 633.098,
+          "xMax": 232.649,
+          "yMax": 645.845
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 652.222,
+          "xMax": 160.633,
+          "yMax": 663.856
+        },
+        {
+          "text": "XX",
+          "xMin": 163.8,
+          "yMin": 651.098,
+          "xMax": 178.143,
+          "yMax": 663.845
+        },
+        {
+          "text": "Scholarships",
+          "xMin": 181.828,
+          "yMin": 651.098,
+          "xMax": 248.073,
+          "yMax": 663.845
+        },
+        {
+          "text": "",
+          "xMin": 152.8,
+          "yMin": 670.222,
+          "xMax": 160.633,
+          "yMax": 681.856
+        },
+        {
+          "text": "Shanghai",
+          "xMin": 163.8,
+          "yMin": 669.098,
+          "xMax": 212.877,
+          "yMax": 681.845
+        },
+        {
+          "text": "World",
+          "xMin": 216.531,
+          "yMin": 669.098,
+          "xMax": 246.655,
+          "yMax": 681.845
+        },
+        {
+          "text": "Expo",
+          "xMin": 250.341,
+          "yMin": 669.098,
+          "xMax": 276.077,
+          "yMax": 681.845
+        },
+        {
+          "text": "volunteer",
+          "xMin": 279.752,
+          "yMin": 669.098,
+          "xMax": 329.469,
+          "yMax": 681.845
+        },
+        {
+          "text": "OTHER",
+          "xMin": 42.45,
+          "yMin": 692.651,
+          "xMax": 84.246,
+          "yMax": 707.123
+        },
+        {
+          "text": "SKILLS",
+          "xMin": 90.3,
+          "yMin": 692.651,
+          "xMax": 133.332,
+          "yMax": 707.123
+        },
+        {
+          "text": "English:",
+          "xMin": 152.8,
+          "yMin": 722.048,
+          "xMax": 195.209,
+          "yMax": 734.795
+        },
+        {
+          "text": "CET6",
+          "xMin": 198.874,
+          "yMin": 722.048,
+          "xMax": 225.964,
+          "yMax": 734.795
+        },
+        {
+          "text": "Computer:",
+          "xMin": 152.8,
+          "yMin": 740.048,
+          "xMax": 209.469,
+          "yMax": 752.795
+        },
+        {
+          "text": "NCRE",
+          "xMin": 213.133,
+          "yMin": 740.048,
+          "xMax": 242.26,
+          "yMax": 752.795
+        },
+        {
+          "text": "certificate,",
+          "xMin": 245.946,
+          "yMin": 740.048,
+          "xMax": 301.637,
+          "yMax": 752.795
+        },
+        {
+          "text": "Rank",
+          "xMin": 305.312,
+          "yMin": 740.048,
+          "xMax": 331.552,
+          "yMax": 752.795
+        },
+        {
+          "text": "3",
+          "xMin": 335.227,
+          "yMin": 740.048,
+          "xMax": 341.894,
+          "yMax": 752.795
+        },
+        {
+          "text": "(network",
+          "xMin": 345.601,
+          "yMin": 740.048,
+          "xMax": 393.009,
+          "yMax": 752.795
+        },
+        {
+          "text": "technique)",
+          "xMin": 396.683,
+          "yMin": 740.048,
+          "xMax": 452.827,
+          "yMax": 752.795
+        },
+        {
+          "text": "INTERESTS",
+          "xMin": 42.45,
+          "yMin": 764.351,
+          "xMax": 110.814,
+          "yMax": 778.823
+        },
+        {
+          "text": "CSDN",
+          "xMin": 152.8,
+          "yMin": 793.801,
+          "xMax": 179.05,
+          "yMax": 806.464
+        },
+        {
+          "text": "BBS",
+          "xMin": 184.3,
+          "yMin": 793.801,
+          "xMax": 202.486,
+          "yMax": 806.464
+        }
+      ]
+    }
+  ]
+}

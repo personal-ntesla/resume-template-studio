@@ -1,0 +1,1299 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.303937,
+      "height": 841.889764,
+      "words": [
+        {
+          "text": "ROBERT",
+          "xMin": 52.8,
+          "yMin": 40.355,
+          "xMax": 208.56,
+          "yMax": 98.915
+        },
+        {
+          "text": "SMITH",
+          "xMin": 226.7,
+          "yMin": 40.355,
+          "xMax": 355.07,
+          "yMax": 98.915
+        },
+        {
+          "text": "UI",
+          "xMin": 53.75,
+          "yMin": 98.265,
+          "xMax": 69.77,
+          "yMax": 120.225
+        },
+        {
+          "text": "&UX",
+          "xMin": 78.8,
+          "yMin": 98.265,
+          "xMax": 111.938,
+          "yMax": 120.225
+        },
+        {
+          "text": "Expert",
+          "xMin": 120.95,
+          "yMin": 98.265,
+          "xMax": 168.182,
+          "yMax": 120.225
+        },
+        {
+          "text": "WORK",
+          "xMin": 236.15,
+          "yMin": 130.703,
+          "xMax": 298.574,
+          "yMax": 159.983
+        },
+        {
+          "text": "EXPERIENCE",
+          "xMin": 310.6,
+          "yMin": 130.703,
+          "xMax": 429.616,
+          "yMax": 159.983
+        },
+        {
+          "text": "2014",
+          "xMin": 239.95,
+          "yMin": 174.805,
+          "xMax": 261.212,
+          "yMax": 187.615
+        },
+        {
+          "text": "-2016",
+          "xMin": 266.45,
+          "yMin": 174.805,
+          "xMax": 290.915,
+          "yMax": 187.615
+        },
+        {
+          "text": "COMPANY",
+          "xMin": 313.15,
+          "yMin": 175.177,
+          "xMax": 363.466,
+          "yMax": 189.817
+        },
+        {
+          "text": "IN",
+          "xMin": 369.45,
+          "yMin": 175.177,
+          "xMax": 380.19,
+          "yMax": 189.817
+        },
+        {
+          "text": "LOS",
+          "xMin": 386.2,
+          "yMin": 175.177,
+          "xMax": 404.404,
+          "yMax": 189.817
+        },
+        {
+          "text": "ANGELES",
+          "xMin": 410.4,
+          "yMin": 175.177,
+          "xMax": 454.776,
+          "yMax": 189.817
+        },
+        {
+          "text": "Art",
+          "xMin": 313.15,
+          "yMin": 189.177,
+          "xMax": 328.246,
+          "yMax": 203.817
+        },
+        {
+          "text": "Director",
+          "xMin": 334.25,
+          "yMin": 189.177,
+          "xMax": 373.802,
+          "yMax": 203.817
+        },
+        {
+          "text": "Designed",
+          "xMin": 313.15,
+          "yMin": 206.033,
+          "xMax": 346.846,
+          "yMax": 217.013
+        },
+        {
+          "text": "look",
+          "xMin": 352.35,
+          "yMin": 206.033,
+          "xMax": 367.974,
+          "yMax": 217.013
+        },
+        {
+          "text": "and",
+          "xMin": 373.4,
+          "yMin": 206.033,
+          "xMax": 387.125,
+          "yMax": 217.013
+        },
+        {
+          "text": "feel",
+          "xMin": 392.6,
+          "yMin": 206.033,
+          "xMax": 406.1,
+          "yMax": 217.013
+        },
+        {
+          "text": "for",
+          "xMin": 411.55,
+          "yMin": 206.033,
+          "xMax": 421.972,
+          "yMax": 217.013
+        },
+        {
+          "text": "German",
+          "xMin": 427.4,
+          "yMin": 206.033,
+          "xMax": 456.857,
+          "yMax": 217.013
+        },
+        {
+          "text": "Ariel",
+          "xMin": 462.35,
+          "yMin": 206.033,
+          "xMax": 479.243,
+          "yMax": 217.013
+        },
+        {
+          "text": "Actilift",
+          "xMin": 484.75,
+          "yMin": 206.033,
+          "xMax": 508.429,
+          "yMax": 217.013
+        },
+        {
+          "text": "product",
+          "xMin": 513.85,
+          "yMin": 206.033,
+          "xMax": 542.533,
+          "yMax": 217.013
+        },
+        {
+          "text": "website.Provided",
+          "xMin": 313.15,
+          "yMin": 220.033,
+          "xMax": 376.276,
+          "yMax": 231.013
+        },
+        {
+          "text": "design",
+          "xMin": 380.8,
+          "yMin": 220.033,
+          "xMax": 404.506,
+          "yMax": 231.013
+        },
+        {
+          "text": "support",
+          "xMin": 409.05,
+          "yMin": 220.033,
+          "xMax": 437.58,
+          "yMax": 231.013
+        },
+        {
+          "text": "for",
+          "xMin": 442.15,
+          "yMin": 220.033,
+          "xMax": 452.572,
+          "yMax": 231.013
+        },
+        {
+          "text": "PGA",
+          "xMin": 457.05,
+          "yMin": 220.033,
+          "xMax": 472.539,
+          "yMax": 231.013
+        },
+        {
+          "text": "European",
+          "xMin": 477.05,
+          "yMin": 220.033,
+          "xMax": 512.096,
+          "yMax": 231.013
+        },
+        {
+          "text": "Tour.",
+          "xMin": 516.65,
+          "yMin": 220.033,
+          "xMax": 534.146,
+          "yMax": 231.013
+        },
+        {
+          "text": "2012",
+          "xMin": 239.95,
+          "yMin": 246.355,
+          "xMax": 261.212,
+          "yMax": 259.165
+        },
+        {
+          "text": "-2014",
+          "xMin": 266.45,
+          "yMin": 246.355,
+          "xMax": 290.915,
+          "yMax": 259.165
+        },
+        {
+          "text": "COMPANY",
+          "xMin": 313.15,
+          "yMin": 246.727,
+          "xMax": 363.466,
+          "yMax": 261.367
+        },
+        {
+          "text": "IN",
+          "xMin": 369.45,
+          "yMin": 246.727,
+          "xMax": 380.19,
+          "yMax": 261.367
+        },
+        {
+          "text": "NEW",
+          "xMin": 386.2,
+          "yMin": 246.727,
+          "xMax": 410.464,
+          "yMax": 261.367
+        },
+        {
+          "text": "YORK",
+          "xMin": 416.45,
+          "yMin": 246.727,
+          "xMax": 442.574,
+          "yMax": 261.367
+        },
+        {
+          "text": "Junior",
+          "xMin": 313.15,
+          "yMin": 260.727,
+          "xMax": 342.814,
+          "yMax": 275.367
+        },
+        {
+          "text": "Art",
+          "xMin": 348.85,
+          "yMin": 260.727,
+          "xMax": 363.946,
+          "yMax": 275.367
+        },
+        {
+          "text": "Director",
+          "xMin": 369.95,
+          "yMin": 260.727,
+          "xMax": 409.502,
+          "yMax": 275.367
+        },
+        {
+          "text": "Designed",
+          "xMin": 313.15,
+          "yMin": 277.583,
+          "xMax": 346.846,
+          "yMax": 288.563
+        },
+        {
+          "text": "look",
+          "xMin": 352.35,
+          "yMin": 277.583,
+          "xMax": 367.974,
+          "yMax": 288.563
+        },
+        {
+          "text": "and",
+          "xMin": 373.4,
+          "yMin": 277.583,
+          "xMax": 387.125,
+          "yMax": 288.563
+        },
+        {
+          "text": "feel",
+          "xMin": 392.6,
+          "yMin": 277.583,
+          "xMax": 406.1,
+          "yMax": 288.563
+        },
+        {
+          "text": "for",
+          "xMin": 411.55,
+          "yMin": 277.583,
+          "xMax": 421.972,
+          "yMax": 288.563
+        },
+        {
+          "text": "German",
+          "xMin": 427.4,
+          "yMin": 277.583,
+          "xMax": 456.857,
+          "yMax": 288.563
+        },
+        {
+          "text": "Ariel",
+          "xMin": 462.35,
+          "yMin": 277.583,
+          "xMax": 479.243,
+          "yMax": 288.563
+        },
+        {
+          "text": "Actilift",
+          "xMin": 484.75,
+          "yMin": 277.583,
+          "xMax": 508.429,
+          "yMax": 288.563
+        },
+        {
+          "text": "product",
+          "xMin": 513.85,
+          "yMin": 277.583,
+          "xMax": 542.533,
+          "yMax": 288.563
+        },
+        {
+          "text": "website.Provided",
+          "xMin": 313.15,
+          "yMin": 291.583,
+          "xMax": 376.276,
+          "yMax": 302.563
+        },
+        {
+          "text": "design",
+          "xMin": 380.8,
+          "yMin": 291.583,
+          "xMax": 404.506,
+          "yMax": 302.563
+        },
+        {
+          "text": "support",
+          "xMin": 409.05,
+          "yMin": 291.583,
+          "xMax": 437.58,
+          "yMax": 302.563
+        },
+        {
+          "text": "for",
+          "xMin": 442.15,
+          "yMin": 291.583,
+          "xMax": 452.572,
+          "yMax": 302.563
+        },
+        {
+          "text": "PGA",
+          "xMin": 457.05,
+          "yMin": 291.583,
+          "xMax": 472.539,
+          "yMax": 302.563
+        },
+        {
+          "text": "European",
+          "xMin": 477.05,
+          "yMin": 291.583,
+          "xMax": 512.096,
+          "yMax": 302.563
+        },
+        {
+          "text": "Tour.",
+          "xMin": 516.65,
+          "yMin": 291.583,
+          "xMax": 534.146,
+          "yMax": 302.563
+        },
+        {
+          "text": "ABOUT",
+          "xMin": 75.05,
+          "yMin": 293.811,
+          "xMax": 133.25,
+          "yMax": 318.211
+        },
+        {
+          "text": "ME",
+          "xMin": 143.3,
+          "yMin": 293.811,
+          "xMax": 170.1,
+          "yMax": 318.211
+        },
+        {
+          "text": "2011",
+          "xMin": 239.95,
+          "yMin": 318.905,
+          "xMax": 261.212,
+          "yMax": 331.715
+        },
+        {
+          "text": "-2012",
+          "xMin": 266.45,
+          "yMin": 318.905,
+          "xMax": 290.915,
+          "yMax": 331.715
+        },
+        {
+          "text": "Two",
+          "xMin": 74.5,
+          "yMin": 332.633,
+          "xMax": 89.593,
+          "yMax": 343.613
+        },
+        {
+          "text": "summers",
+          "xMin": 115.95,
+          "yMin": 332.633,
+          "xMax": 149.493,
+          "yMax": 343.613
+        },
+        {
+          "text": "of",
+          "xMin": 175.9,
+          "yMin": 332.633,
+          "xMax": 183.343,
+          "yMax": 343.613
+        },
+        {
+          "text": "accounting",
+          "xMin": 74.5,
+          "yMin": 345.633,
+          "xMax": 114.415,
+          "yMax": 356.613
+        },
+        {
+          "text": "related",
+          "xMin": 157.5,
+          "yMin": 345.633,
+          "xMax": 183.357,
+          "yMax": 356.613
+        },
+        {
+          "text": "experience;",
+          "xMin": 74.5,
+          "yMin": 358.633,
+          "xMax": 116.962,
+          "yMax": 369.613
+        },
+        {
+          "text": "78%",
+          "xMin": 122.2,
+          "yMin": 358.633,
+          "xMax": 137.734,
+          "yMax": 369.613
+        },
+        {
+          "text": "average",
+          "xMin": 142.95,
+          "yMin": 358.633,
+          "xMax": 171.417,
+          "yMax": 369.613
+        },
+        {
+          "text": "in",
+          "xMin": 176.65,
+          "yMin": 358.633,
+          "xMax": 183.427,
+          "yMax": 369.613
+        },
+        {
+          "text": "accounting",
+          "xMin": 74.5,
+          "yMin": 371.633,
+          "xMax": 114.415,
+          "yMax": 382.613
+        },
+        {
+          "text": "courses.Commended",
+          "xMin": 74.5,
+          "yMin": 384.633,
+          "xMax": 151.234,
+          "yMax": 395.613
+        },
+        {
+          "text": "for",
+          "xMin": 173.0,
+          "yMin": 384.633,
+          "xMax": 183.422,
+          "yMax": 395.613
+        },
+        {
+          "text": "high",
+          "xMin": 74.5,
+          "yMin": 397.633,
+          "xMax": 90.214,
+          "yMax": 408.613
+        },
+        {
+          "text": "level",
+          "xMin": 101.65,
+          "yMin": 397.633,
+          "xMax": 118.651,
+          "yMax": 408.613
+        },
+        {
+          "text": "of",
+          "xMin": 130.05,
+          "yMin": 397.633,
+          "xMax": 137.493,
+          "yMax": 408.613
+        },
+        {
+          "text": "customer",
+          "xMin": 148.9,
+          "yMin": 397.633,
+          "xMax": 183.253,
+          "yMax": 408.613
+        },
+        {
+          "text": "service",
+          "xMin": 74.5,
+          "yMin": 410.633,
+          "xMax": 100.105,
+          "yMax": 421.613
+        },
+        {
+          "text": "as",
+          "xMin": 104.65,
+          "yMin": 410.633,
+          "xMax": 112.471,
+          "yMax": 421.613
+        },
+        {
+          "text": "a",
+          "xMin": 117.0,
+          "yMin": 410.633,
+          "xMax": 121.311,
+          "yMax": 421.613
+        },
+        {
+          "text": "Sales",
+          "xMin": 125.85,
+          "yMin": 410.633,
+          "xMax": 144.309,
+          "yMax": 421.613
+        },
+        {
+          "text": "Associate",
+          "xMin": 148.9,
+          "yMin": 410.633,
+          "xMax": 183.361,
+          "yMax": 421.613
+        },
+        {
+          "text": "for",
+          "xMin": 74.5,
+          "yMin": 423.633,
+          "xMax": 84.922,
+          "yMax": 434.613
+        },
+        {
+          "text": "over",
+          "xMin": 98.55,
+          "yMin": 423.633,
+          "xMax": 114.822,
+          "yMax": 434.613
+        },
+        {
+          "text": "three",
+          "xMin": 128.45,
+          "yMin": 423.633,
+          "xMax": 148.115,
+          "yMax": 434.613
+        },
+        {
+          "text": "years,",
+          "xMin": 161.8,
+          "yMin": 423.633,
+          "xMax": 183.265,
+          "yMax": 434.613
+        },
+        {
+          "text": "increased",
+          "xMin": 74.5,
+          "yMin": 440.033,
+          "xMax": 109.6,
+          "yMax": 451.013
+        },
+        {
+          "text": "club’",
+          "xMin": 138.35,
+          "yMin": 440.033,
+          "xMax": 155.648,
+          "yMax": 451.013
+        },
+        {
+          "text": "s",
+          "xMin": 179.85,
+          "yMin": 440.033,
+          "xMax": 183.369,
+          "yMax": 451.013
+        },
+        {
+          "text": "membership",
+          "xMin": 74.5,
+          "yMin": 453.033,
+          "xMax": 120.517,
+          "yMax": 464.013
+        },
+        {
+          "text": "over",
+          "xMin": 127.75,
+          "yMin": 453.033,
+          "xMax": 144.022,
+          "yMax": 464.013
+        },
+        {
+          "text": "the",
+          "xMin": 151.2,
+          "yMin": 453.033,
+          "xMax": 163.368,
+          "yMax": 464.013
+        },
+        {
+          "text": "last",
+          "xMin": 170.6,
+          "yMin": 453.033,
+          "xMax": 183.362,
+          "yMax": 464.013
+        },
+        {
+          "text": "year.Outstanding",
+          "xMin": 74.5,
+          "yMin": 466.033,
+          "xMax": 136.384,
+          "yMax": 477.013
+        },
+        {
+          "text": "written",
+          "xMin": 156.95,
+          "yMin": 466.033,
+          "xMax": 183.356,
+          "yMax": 477.013
+        },
+        {
+          "text": "and",
+          "xMin": 74.5,
+          "yMin": 479.033,
+          "xMax": 88.225,
+          "yMax": 490.013
+        },
+        {
+          "text": "verbal",
+          "xMin": 96.1,
+          "yMin": 479.033,
+          "xMax": 118.744,
+          "yMax": 490.013
+        },
+        {
+          "text": "communication",
+          "xMin": 126.6,
+          "yMin": 479.033,
+          "xMax": 183.336,
+          "yMax": 490.013
+        },
+        {
+          "text": "skills",
+          "xMin": 74.5,
+          "yMin": 492.033,
+          "xMax": 91.807,
+          "yMax": 503.013
+        },
+        {
+          "text": "in",
+          "xMin": 106.9,
+          "yMin": 492.033,
+          "xMax": 113.677,
+          "yMax": 503.013
+        },
+        {
+          "text": "English",
+          "xMin": 128.75,
+          "yMin": 492.033,
+          "xMax": 154.445,
+          "yMax": 503.013
+        },
+        {
+          "text": "and",
+          "xMin": 169.55,
+          "yMin": 492.033,
+          "xMax": 183.275,
+          "yMax": 503.013
+        },
+        {
+          "text": "Mandarin.",
+          "xMin": 74.5,
+          "yMin": 505.033,
+          "xMax": 112.435,
+          "yMax": 516.013
+        },
+        {
+          "text": "CONTACT",
+          "xMin": 74.75,
+          "yMin": 526.211,
+          "xMax": 151.45,
+          "yMax": 550.611
+        },
+        {
+          "text": "ME",
+          "xMin": 161.5,
+          "yMin": 526.211,
+          "xMax": 188.3,
+          "yMax": 550.611
+        },
+        {
+          "text": "MY",
+          "xMin": 313.15,
+          "yMin": 319.277,
+          "xMax": 329.242,
+          "yMax": 333.917
+        },
+        {
+          "text": "FRIST",
+          "xMin": 335.25,
+          "yMin": 319.277,
+          "xMax": 361.53,
+          "yMax": 333.917
+        },
+        {
+          "text": "COMANY",
+          "xMin": 367.55,
+          "yMin": 319.277,
+          "xMax": 412.514,
+          "yMax": 333.917
+        },
+        {
+          "text": "NAME",
+          "xMin": 418.55,
+          "yMin": 319.277,
+          "xMax": 449.294,
+          "yMax": 333.917
+        },
+        {
+          "text": "Trainee",
+          "xMin": 313.15,
+          "yMin": 333.277,
+          "xMax": 348.898,
+          "yMax": 347.917
+        },
+        {
+          "text": "Designed",
+          "xMin": 313.15,
+          "yMin": 350.133,
+          "xMax": 346.846,
+          "yMax": 361.113
+        },
+        {
+          "text": "look",
+          "xMin": 352.35,
+          "yMin": 350.133,
+          "xMax": 367.974,
+          "yMax": 361.113
+        },
+        {
+          "text": "and",
+          "xMin": 373.4,
+          "yMin": 350.133,
+          "xMax": 387.125,
+          "yMax": 361.113
+        },
+        {
+          "text": "feel",
+          "xMin": 392.6,
+          "yMin": 350.133,
+          "xMax": 406.1,
+          "yMax": 361.113
+        },
+        {
+          "text": "for",
+          "xMin": 411.55,
+          "yMin": 350.133,
+          "xMax": 421.972,
+          "yMax": 361.113
+        },
+        {
+          "text": "German",
+          "xMin": 427.4,
+          "yMin": 350.133,
+          "xMax": 456.857,
+          "yMax": 361.113
+        },
+        {
+          "text": "Ariel",
+          "xMin": 462.35,
+          "yMin": 350.133,
+          "xMax": 479.243,
+          "yMax": 361.113
+        },
+        {
+          "text": "Actilift",
+          "xMin": 484.75,
+          "yMin": 350.133,
+          "xMax": 508.429,
+          "yMax": 361.113
+        },
+        {
+          "text": "product",
+          "xMin": 513.85,
+          "yMin": 350.133,
+          "xMax": 542.533,
+          "yMax": 361.113
+        },
+        {
+          "text": "website.Provided",
+          "xMin": 313.15,
+          "yMin": 364.133,
+          "xMax": 376.276,
+          "yMax": 375.113
+        },
+        {
+          "text": "design",
+          "xMin": 380.8,
+          "yMin": 364.133,
+          "xMax": 404.506,
+          "yMax": 375.113
+        },
+        {
+          "text": "support",
+          "xMin": 409.05,
+          "yMin": 364.133,
+          "xMax": 437.58,
+          "yMax": 375.113
+        },
+        {
+          "text": "for",
+          "xMin": 442.15,
+          "yMin": 364.133,
+          "xMax": 452.572,
+          "yMax": 375.113
+        },
+        {
+          "text": "PGA",
+          "xMin": 457.05,
+          "yMin": 364.133,
+          "xMax": 472.539,
+          "yMax": 375.113
+        },
+        {
+          "text": "European",
+          "xMin": 477.05,
+          "yMin": 364.133,
+          "xMax": 512.096,
+          "yMax": 375.113
+        },
+        {
+          "text": "Tour.",
+          "xMin": 516.65,
+          "yMin": 364.133,
+          "xMax": 534.146,
+          "yMax": 375.113
+        },
+        {
+          "text": "EDUCATION",
+          "xMin": 238.85,
+          "yMin": 417.053,
+          "xMax": 354.578,
+          "yMax": 446.333
+        },
+        {
+          "text": "2008",
+          "xMin": 240.3,
+          "yMin": 458.155,
+          "xMax": 261.562,
+          "yMax": 470.965
+        },
+        {
+          "text": "-2011",
+          "xMin": 266.8,
+          "yMin": 458.155,
+          "xMax": 291.265,
+          "yMax": 470.965
+        },
+        {
+          "text": "MIT",
+          "xMin": 312.95,
+          "yMin": 458.581,
+          "xMax": 328.86,
+          "yMax": 470.781
+        },
+        {
+          "text": "University",
+          "xMin": 333.85,
+          "yMin": 458.581,
+          "xMax": 374.53,
+          "yMax": 470.781
+        },
+        {
+          "text": "of",
+          "xMin": 379.6,
+          "yMin": 458.581,
+          "xMax": 387.9,
+          "yMax": 470.781
+        },
+        {
+          "text": "United",
+          "xMin": 392.9,
+          "yMin": 458.581,
+          "xMax": 420.29,
+          "yMax": 470.781
+        },
+        {
+          "text": "States",
+          "xMin": 425.3,
+          "yMin": 458.581,
+          "xMax": 449.91,
+          "yMax": 470.781
+        },
+        {
+          "text": "Computer",
+          "xMin": 312.95,
+          "yMin": 471.905,
+          "xMax": 355.738,
+          "yMax": 484.715
+        },
+        {
+          "text": "science",
+          "xMin": 361.0,
+          "yMin": 471.905,
+          "xMax": 392.29,
+          "yMax": 484.715
+        },
+        {
+          "text": "2005",
+          "xMin": 240.6,
+          "yMin": 495.105,
+          "xMax": 261.863,
+          "yMax": 507.915
+        },
+        {
+          "text": "-2007",
+          "xMin": 267.1,
+          "yMin": 495.105,
+          "xMax": 291.565,
+          "yMax": 507.915
+        },
+        {
+          "text": "Head-Royce",
+          "xMin": 313.25,
+          "yMin": 495.531,
+          "xMax": 361.55,
+          "yMax": 507.731
+        },
+        {
+          "text": "School",
+          "xMin": 366.6,
+          "yMin": 495.531,
+          "xMax": 393.47,
+          "yMax": 507.731
+        },
+        {
+          "text": "Oakland,CA",
+          "xMin": 313.25,
+          "yMin": 508.855,
+          "xMax": 362.705,
+          "yMax": 521.665
+        },
+        {
+          "text": "2001",
+          "xMin": 240.5,
+          "yMin": 531.705,
+          "xMax": 261.762,
+          "yMax": 544.515
+        },
+        {
+          "text": "-2004",
+          "xMin": 267.0,
+          "yMin": 531.705,
+          "xMax": 291.465,
+          "yMax": 544.515
+        },
+        {
+          "text": "Albert",
+          "xMin": 313.15,
+          "yMin": 532.131,
+          "xMax": 338.22,
+          "yMax": 544.331
+        },
+        {
+          "text": "Walsh",
+          "xMin": 343.25,
+          "yMin": 532.131,
+          "xMax": 367.98,
+          "yMax": 544.331
+        },
+        {
+          "text": "Elementary",
+          "xMin": 373.0,
+          "yMin": 532.131,
+          "xMax": 419.28,
+          "yMax": 544.331
+        },
+        {
+          "text": "School",
+          "xMin": 424.35,
+          "yMin": 532.131,
+          "xMax": 451.22,
+          "yMax": 544.331
+        },
+        {
+          "text": "Degree",
+          "xMin": 313.15,
+          "yMin": 545.455,
+          "xMax": 343.684,
+          "yMax": 558.265
+        },
+        {
+          "text": "Title",
+          "xMin": 348.95,
+          "yMin": 545.455,
+          "xMax": 367.608,
+          "yMax": 558.265
+        },
+        {
+          "text": "Phone",
+          "xMin": 79.0,
+          "yMin": 564.881,
+          "xMax": 104.87,
+          "yMax": 577.081
+        },
+        {
+          "text": "+1800",
+          "xMin": 79.0,
+          "yMin": 577.881,
+          "xMax": 104.2,
+          "yMax": 590.081
+        },
+        {
+          "text": "4012",
+          "xMin": 109.25,
+          "yMin": 577.881,
+          "xMax": 129.5,
+          "yMax": 590.081
+        },
+        {
+          "text": "3456",
+          "xMin": 134.5,
+          "yMin": 577.881,
+          "xMax": 154.75,
+          "yMax": 590.081
+        },
+        {
+          "text": "Address",
+          "xMin": 79.0,
+          "yMin": 603.881,
+          "xMax": 111.4,
+          "yMax": 616.081
+        },
+        {
+          "text": "Street",
+          "xMin": 79.0,
+          "yMin": 616.405,
+          "xMax": 104.746,
+          "yMax": 629.215
+        },
+        {
+          "text": "23",
+          "xMin": 79.0,
+          "yMin": 629.405,
+          "xMax": 89.615,
+          "yMax": 642.215
+        },
+        {
+          "text": "address",
+          "xMin": 116.95,
+          "yMin": 616.405,
+          "xMax": 149.93,
+          "yMax": 629.215
+        },
+        {
+          "text": "number",
+          "xMin": 162.15,
+          "yMin": 616.405,
+          "xMax": 195.939,
+          "yMax": 629.215
+        },
+        {
+          "text": "Email",
+          "xMin": 79.0,
+          "yMin": 655.881,
+          "xMax": 101.21,
+          "yMax": 668.081
+        },
+        {
+          "text": "littleprince@163.com",
+          "xMin": 79.0,
+          "yMin": 668.405,
+          "xMax": 171.085,
+          "yMax": 681.215
+        },
+        {
+          "text": "Website",
+          "xMin": 79.0,
+          "yMin": 707.881,
+          "xMax": 112.1,
+          "yMax": 720.081
+        },
+        {
+          "text": "www.littleprince.com",
+          "xMin": 79.0,
+          "yMin": 720.405,
+          "xMax": 170.329,
+          "yMax": 733.215
+        },
+        {
+          "text": "+1800",
+          "xMin": 84.65,
+          "yMin": 806.331,
+          "xMax": 109.85,
+          "yMax": 818.531
+        },
+        {
+          "text": "4012",
+          "xMin": 114.9,
+          "yMin": 806.331,
+          "xMax": 135.15,
+          "yMax": 818.531
+        },
+        {
+          "text": "3456",
+          "xMin": 140.15,
+          "yMin": 806.331,
+          "xMax": 160.4,
+          "yMax": 818.531
+        },
+        {
+          "text": "PROFESSIONAL",
+          "xMin": 239.7,
+          "yMin": 611.727,
+          "xMax": 313.128,
+          "yMax": 626.367
+        },
+        {
+          "text": "SKILLS",
+          "xMin": 319.2,
+          "yMin": 611.727,
+          "xMax": 349.524,
+          "yMax": 626.367
+        },
+        {
+          "text": "PERSONAL",
+          "xMin": 397.0,
+          "yMin": 611.727,
+          "xMax": 448.54,
+          "yMax": 626.367
+        },
+        {
+          "text": "SKILLS",
+          "xMin": 454.6,
+          "yMin": 611.727,
+          "xMax": 484.924,
+          "yMax": 626.367
+        },
+        {
+          "text": "Photoshop",
+          "xMin": 240.25,
+          "yMin": 643.179,
+          "xMax": 288.496,
+          "yMax": 656.599
+        },
+        {
+          "text": "Communication",
+          "xMin": 396.5,
+          "yMin": 643.179,
+          "xMax": 467.197,
+          "yMax": 656.599
+        },
+        {
+          "text": "Cinema",
+          "xMin": 240.25,
+          "yMin": 665.179,
+          "xMax": 273.888,
+          "yMax": 678.599
+        },
+        {
+          "text": "4D",
+          "xMin": 279.4,
+          "yMin": 665.179,
+          "xMax": 291.72,
+          "yMax": 678.599
+        },
+        {
+          "text": "Teamwork",
+          "xMin": 396.5,
+          "yMin": 665.179,
+          "xMax": 442.667,
+          "yMax": 678.599
+        },
+        {
+          "text": "HTML5",
+          "xMin": 240.25,
+          "yMin": 687.179,
+          "xMax": 272.007,
+          "yMax": 700.599
+        },
+        {
+          "text": "Creativity",
+          "xMin": 396.5,
+          "yMin": 687.179,
+          "xMax": 438.927,
+          "yMax": 700.599
+        },
+        {
+          "text": "JavaScript",
+          "xMin": 240.25,
+          "yMin": 709.179,
+          "xMax": 284.349,
+          "yMax": 722.599
+        },
+        {
+          "text": "Leadership",
+          "xMin": 396.5,
+          "yMin": 709.179,
+          "xMax": 445.098,
+          "yMax": 722.599
+        },
+        {
+          "text": "Animation",
+          "xMin": 240.25,
+          "yMin": 731.179,
+          "xMax": 286.538,
+          "yMax": 744.599
+        },
+        {
+          "text": "Management",
+          "xMin": 396.5,
+          "yMin": 731.179,
+          "xMax": 456.329,
+          "yMax": 744.599
+        },
+        {
+          "text": "littleprince@163.com",
+          "xMin": 255.75,
+          "yMin": 806.331,
+          "xMax": 343.39,
+          "yMax": 818.531
+        },
+        {
+          "text": "Street",
+          "xMin": 428.1,
+          "yMin": 806.331,
+          "xMax": 452.57,
+          "yMax": 818.531
+        },
+        {
+          "text": "address",
+          "xMin": 457.6,
+          "yMin": 806.331,
+          "xMax": 489.01,
+          "yMax": 818.531
+        },
+        {
+          "text": "number",
+          "xMin": 494.05,
+          "yMin": 806.331,
+          "xMax": 526.22,
+          "yMax": 818.531
+        },
+        {
+          "text": "23",
+          "xMin": 531.25,
+          "yMin": 806.331,
+          "xMax": 541.36,
+          "yMax": 818.531
+        }
+      ]
+    }
+  ]
+}

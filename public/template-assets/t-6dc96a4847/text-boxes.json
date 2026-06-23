@@ -1,0 +1,1446 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "width": 595.303937,
+      "height": 841.889764,
+      "words": [
+        {
+          "text": "At",
+          "xMin": 436.65,
+          "yMin": 36.821,
+          "xMax": 447.108,
+          "yMax": 47.321
+        },
+        {
+          "text": "the",
+          "xMin": 452.35,
+          "yMin": 36.821,
+          "xMax": 465.79,
+          "yMax": 47.321
+        },
+        {
+          "text": "age",
+          "xMin": 471.05,
+          "yMin": 36.821,
+          "xMax": 485.876,
+          "yMax": 47.321
+        },
+        {
+          "text": "of",
+          "xMin": 491.1,
+          "yMin": 36.821,
+          "xMax": 500.277,
+          "yMax": 47.321
+        },
+        {
+          "text": "24",
+          "xMin": 505.5,
+          "yMin": 36.821,
+          "xMax": 515.328,
+          "yMax": 47.321
+        },
+        {
+          "text": "Lucy",
+          "xMin": 162.15,
+          "yMin": 38.491,
+          "xMax": 215.034,
+          "yMax": 64.491
+        },
+        {
+          "text": "18756786288",
+          "xMin": 436.65,
+          "yMin": 54.821,
+          "xMax": 490.716,
+          "yMax": 65.321
+        },
+        {
+          "text": "Robin@163.com",
+          "xMin": 436.65,
+          "yMin": 72.821,
+          "xMax": 507.063,
+          "yMax": 83.321
+        },
+        {
+          "text": "Job",
+          "xMin": 162.15,
+          "yMin": 83.971,
+          "xMax": 176.472,
+          "yMax": 94.471
+        },
+        {
+          "text": "search",
+          "xMin": 181.7,
+          "yMin": 83.971,
+          "xMax": 209.021,
+          "yMax": 94.471
+        },
+        {
+          "text": "intention:",
+          "xMin": 214.3,
+          "yMin": 83.971,
+          "xMax": 255.554,
+          "yMax": 94.471
+        },
+        {
+          "text": "translation",
+          "xMin": 260.85,
+          "yMin": 83.971,
+          "xMax": 308.005,
+          "yMax": 94.471
+        },
+        {
+          "text": "Zhengzhou",
+          "xMin": 436.65,
+          "yMin": 90.821,
+          "xMax": 485.024,
+          "yMax": 101.321
+        },
+        {
+          "text": "Henan",
+          "xMin": 490.3,
+          "yMin": 90.821,
+          "xMax": 519.259,
+          "yMax": 101.321
+        },
+        {
+          "text": "Educational",
+          "xMin": 21.9,
+          "yMin": 191.211,
+          "xMax": 94.83,
+          "yMax": 205.211
+        },
+        {
+          "text": "background",
+          "xMin": 21.9,
+          "yMin": 207.211,
+          "xMax": 95.19,
+          "yMax": 221.211
+        },
+        {
+          "text": "2010.6-2014.9",
+          "xMin": 33.15,
+          "yMin": 228.821,
+          "xMax": 89.975,
+          "yMax": 239.321
+        },
+        {
+          "text": "Zhengzhou",
+          "xMin": 152.4,
+          "yMin": 228.821,
+          "xMax": 200.774,
+          "yMax": 239.321
+        },
+        {
+          "text": "Institute",
+          "xMin": 206.05,
+          "yMin": 228.821,
+          "xMax": 241.992,
+          "yMax": 239.321
+        },
+        {
+          "text": "of",
+          "xMin": 247.3,
+          "yMin": 228.821,
+          "xMax": 256.477,
+          "yMax": 239.321
+        },
+        {
+          "text": "Aeronautics",
+          "xMin": 261.7,
+          "yMin": 228.821,
+          "xMax": 313.098,
+          "yMax": 239.321
+        },
+        {
+          "text": "Industry",
+          "xMin": 318.4,
+          "yMin": 228.821,
+          "xMax": 353.837,
+          "yMax": 239.321
+        },
+        {
+          "text": "Management",
+          "xMin": 359.1,
+          "yMin": 228.821,
+          "xMax": 415.264,
+          "yMax": 239.321
+        },
+        {
+          "text": "Major",
+          "xMin": 152.4,
+          "yMin": 246.821,
+          "xMax": 177.894,
+          "yMax": 257.321
+        },
+        {
+          "text": "course:",
+          "xMin": 188.55,
+          "yMin": 246.821,
+          "xMax": 218.1,
+          "yMax": 257.321
+        },
+        {
+          "text": "translation,",
+          "xMin": 152.4,
+          "yMin": 264.821,
+          "xMax": 201.823,
+          "yMax": 275.321
+        },
+        {
+          "text": "Comprehensive",
+          "xMin": 228.7,
+          "yMin": 246.821,
+          "xMax": 294.577,
+          "yMax": 257.321
+        },
+        {
+          "text": "business",
+          "xMin": 224.8,
+          "yMin": 264.821,
+          "xMax": 260.091,
+          "yMax": 275.321
+        },
+        {
+          "text": "English,",
+          "xMin": 305.3,
+          "yMin": 246.821,
+          "xMax": 340.087,
+          "yMax": 257.321
+        },
+        {
+          "text": "English",
+          "xMin": 283.1,
+          "yMin": 264.821,
+          "xMax": 315.587,
+          "yMax": 275.321
+        },
+        {
+          "text": "English",
+          "xMin": 350.8,
+          "yMin": 246.821,
+          "xMax": 383.287,
+          "yMax": 257.321
+        },
+        {
+          "text": "writing,",
+          "xMin": 394.0,
+          "yMin": 246.821,
+          "xMax": 426.603,
+          "yMax": 257.321
+        },
+        {
+          "text": "translation,",
+          "xMin": 338.6,
+          "yMin": 264.821,
+          "xMax": 388.024,
+          "yMax": 275.321
+        },
+        {
+          "text": "English",
+          "xMin": 462.55,
+          "yMin": 228.821,
+          "xMax": 495.037,
+          "yMax": 239.321
+        },
+        {
+          "text": "Major",
+          "xMin": 500.35,
+          "yMin": 228.821,
+          "xMax": 525.844,
+          "yMax": 239.321
+        },
+        {
+          "text": "English",
+          "xMin": 437.3,
+          "yMin": 246.821,
+          "xMax": 469.787,
+          "yMax": 257.321
+        },
+        {
+          "text": "business",
+          "xMin": 411.0,
+          "yMin": 264.821,
+          "xMax": 446.291,
+          "yMax": 275.321
+        },
+        {
+          "text": "listening,",
+          "xMin": 480.5,
+          "yMin": 246.821,
+          "xMax": 519.14,
+          "yMax": 257.321
+        },
+        {
+          "text": "English,",
+          "xMin": 469.3,
+          "yMin": 264.821,
+          "xMax": 504.087,
+          "yMax": 275.321
+        },
+        {
+          "text": "English",
+          "xMin": 529.85,
+          "yMin": 246.821,
+          "xMax": 562.337,
+          "yMax": 257.321
+        },
+        {
+          "text": "business",
+          "xMin": 527.1,
+          "yMin": 264.821,
+          "xMax": 562.39,
+          "yMax": 275.321
+        },
+        {
+          "text": "correspondence,Primary",
+          "xMin": 152.4,
+          "yMin": 282.821,
+          "xMax": 255.332,
+          "yMax": 293.321
+        },
+        {
+          "text": "accounting,",
+          "xMin": 265.8,
+          "yMin": 282.821,
+          "xMax": 315.161,
+          "yMax": 293.321
+        },
+        {
+          "text": "marketing,",
+          "xMin": 325.55,
+          "yMin": 282.821,
+          "xMax": 371.361,
+          "yMax": 293.321
+        },
+        {
+          "text": "economic",
+          "xMin": 381.75,
+          "yMin": 282.821,
+          "xMax": 422.301,
+          "yMax": 293.321
+        },
+        {
+          "text": "law,",
+          "xMin": 432.65,
+          "yMin": 282.821,
+          "xMax": 450.101,
+          "yMax": 293.321
+        },
+        {
+          "text": "computer",
+          "xMin": 460.45,
+          "yMin": 282.821,
+          "xMax": 500.99,
+          "yMax": 293.321
+        },
+        {
+          "text": "application,",
+          "xMin": 511.35,
+          "yMin": 282.821,
+          "xMax": 562.412,
+          "yMax": 293.321
+        },
+        {
+          "text": "French,",
+          "xMin": 152.4,
+          "yMin": 300.821,
+          "xMax": 184.373,
+          "yMax": 311.321
+        },
+        {
+          "text": "etc.",
+          "xMin": 189.65,
+          "yMin": 300.821,
+          "xMax": 204.14,
+          "yMax": 311.321
+        },
+        {
+          "text": "Work",
+          "xMin": 48.8,
+          "yMin": 323.911,
+          "xMax": 80.146,
+          "yMax": 337.911
+        },
+        {
+          "text": "experience",
+          "xMin": 35.05,
+          "yMin": 339.911,
+          "xMax": 100.934,
+          "yMax": 353.911
+        },
+        {
+          "text": "2011.4-2012.8",
+          "xMin": 33.15,
+          "yMin": 348.821,
+          "xMax": 89.975,
+          "yMax": 359.321
+        },
+        {
+          "text": "Henan",
+          "xMin": 152.4,
+          "yMin": 348.821,
+          "xMax": 181.359,
+          "yMax": 359.321
+        },
+        {
+          "text": "Network",
+          "xMin": 186.65,
+          "yMin": 348.821,
+          "xMax": 223.684,
+          "yMax": 359.321
+        },
+        {
+          "text": "Technology",
+          "xMin": 228.95,
+          "yMin": 348.821,
+          "xMax": 278.332,
+          "yMax": 359.321
+        },
+        {
+          "text": "Co.,",
+          "xMin": 283.6,
+          "yMin": 348.821,
+          "xMax": 300.2,
+          "yMax": 359.321
+        },
+        {
+          "text": "Ltd.",
+          "xMin": 305.45,
+          "yMin": 348.821,
+          "xMax": 322.481,
+          "yMax": 359.321
+        },
+        {
+          "text": "English",
+          "xMin": 480.0,
+          "yMin": 348.821,
+          "xMax": 512.487,
+          "yMax": 359.321
+        },
+        {
+          "text": "Editor",
+          "xMin": 517.8,
+          "yMin": 348.821,
+          "xMax": 545.362,
+          "yMax": 359.321
+        },
+        {
+          "text": "Responsible",
+          "xMin": 152.4,
+          "yMin": 366.821,
+          "xMax": 203.293,
+          "yMax": 377.321
+        },
+        {
+          "text": "for",
+          "xMin": 208.6,
+          "yMin": 366.821,
+          "xMax": 221.547,
+          "yMax": 377.321
+        },
+        {
+          "text": "the",
+          "xMin": 226.85,
+          "yMin": 366.821,
+          "xMax": 240.29,
+          "yMax": 377.321
+        },
+        {
+          "text": "operation",
+          "xMin": 245.6,
+          "yMin": 366.821,
+          "xMax": 287.212,
+          "yMax": 377.321
+        },
+        {
+          "text": "and",
+          "xMin": 292.55,
+          "yMin": 366.821,
+          "xMax": 308.793,
+          "yMax": 377.321
+        },
+        {
+          "text": "promotion",
+          "xMin": 314.1,
+          "yMin": 366.821,
+          "xMax": 359.523,
+          "yMax": 377.321
+        },
+        {
+          "text": "of",
+          "xMin": 364.8,
+          "yMin": 366.821,
+          "xMax": 373.977,
+          "yMax": 377.321
+        },
+        {
+          "text": "related",
+          "xMin": 379.25,
+          "yMin": 366.821,
+          "xMax": 408.965,
+          "yMax": 377.321
+        },
+        {
+          "text": "sites,",
+          "xMin": 414.3,
+          "yMin": 366.821,
+          "xMax": 434.922,
+          "yMax": 377.321
+        },
+        {
+          "text": "the",
+          "xMin": 440.25,
+          "yMin": 366.821,
+          "xMax": 453.69,
+          "yMax": 377.321
+        },
+        {
+          "text": "collection",
+          "xMin": 459.0,
+          "yMin": 366.821,
+          "xMax": 500.36,
+          "yMax": 377.321
+        },
+        {
+          "text": "of",
+          "xMin": 505.7,
+          "yMin": 366.821,
+          "xMax": 514.877,
+          "yMax": 377.321
+        },
+        {
+          "text": "the",
+          "xMin": 520.15,
+          "yMin": 366.821,
+          "xMax": 533.59,
+          "yMax": 377.321
+        },
+        {
+          "text": "latest",
+          "xMin": 538.9,
+          "yMin": 366.821,
+          "xMax": 562.095,
+          "yMax": 377.321
+        },
+        {
+          "text": "information",
+          "xMin": 152.4,
+          "yMin": 384.821,
+          "xMax": 204.438,
+          "yMax": 395.321
+        },
+        {
+          "text": "on",
+          "xMin": 209.75,
+          "yMin": 384.821,
+          "xMax": 220.691,
+          "yMax": 395.321
+        },
+        {
+          "text": "the",
+          "xMin": 225.95,
+          "yMin": 384.821,
+          "xMax": 239.39,
+          "yMax": 395.321
+        },
+        {
+          "text": "major",
+          "xMin": 244.65,
+          "yMin": 384.821,
+          "xMax": 269.682,
+          "yMax": 395.321
+        },
+        {
+          "text": "sites;",
+          "xMin": 274.9,
+          "yMin": 384.821,
+          "xMax": 295.522,
+          "yMax": 395.321
+        },
+        {
+          "text": "Translation",
+          "xMin": 152.4,
+          "yMin": 402.821,
+          "xMax": 202.653,
+          "yMax": 413.321
+        },
+        {
+          "text": "designated",
+          "xMin": 209.6,
+          "yMin": 402.821,
+          "xMax": 255.286,
+          "yMax": 413.321
+        },
+        {
+          "text": "network",
+          "xMin": 262.3,
+          "yMin": 402.821,
+          "xMax": 296.793,
+          "yMax": 413.321
+        },
+        {
+          "text": "news",
+          "xMin": 303.8,
+          "yMin": 402.821,
+          "xMax": 324.726,
+          "yMax": 413.321
+        },
+        {
+          "text": "articles,",
+          "xMin": 331.7,
+          "yMin": 402.821,
+          "xMax": 364.764,
+          "yMax": 413.321
+        },
+        {
+          "text": "targeted",
+          "xMin": 371.75,
+          "yMin": 402.821,
+          "xMax": 406.957,
+          "yMax": 413.321
+        },
+        {
+          "text": "selection",
+          "xMin": 413.95,
+          "yMin": 402.821,
+          "xMax": 451.099,
+          "yMax": 413.321
+        },
+        {
+          "text": "of",
+          "xMin": 458.1,
+          "yMin": 402.821,
+          "xMax": 467.277,
+          "yMax": 413.321
+        },
+        {
+          "text": "information,",
+          "xMin": 474.2,
+          "yMin": 402.821,
+          "xMax": 528.538,
+          "yMax": 413.321
+        },
+        {
+          "text": "layout",
+          "xMin": 535.55,
+          "yMin": 402.821,
+          "xMax": 562.188,
+          "yMax": 413.321
+        },
+        {
+          "text": "and",
+          "xMin": 152.4,
+          "yMin": 420.821,
+          "xMax": 168.643,
+          "yMax": 431.321
+        },
+        {
+          "text": "picture",
+          "xMin": 173.9,
+          "yMin": 420.821,
+          "xMax": 203.657,
+          "yMax": 431.321
+        },
+        {
+          "text": "processing;",
+          "xMin": 208.9,
+          "yMin": 420.821,
+          "xMax": 255.751,
+          "yMax": 431.321
+        },
+        {
+          "text": "Update",
+          "xMin": 152.4,
+          "yMin": 438.821,
+          "xMax": 183.931,
+          "yMax": 449.321
+        },
+        {
+          "text": "English",
+          "xMin": 189.2,
+          "yMin": 438.821,
+          "xMax": 221.687,
+          "yMax": 449.321
+        },
+        {
+          "text": "website",
+          "xMin": 227.0,
+          "yMin": 438.821,
+          "xMax": 258.531,
+          "yMax": 449.321
+        },
+        {
+          "text": "content;",
+          "xMin": 263.8,
+          "yMin": 438.821,
+          "xMax": 298.166,
+          "yMax": 449.321
+        },
+        {
+          "text": "Network",
+          "xMin": 152.4,
+          "yMin": 456.821,
+          "xMax": 189.434,
+          "yMax": 467.321
+        },
+        {
+          "text": "channels",
+          "xMin": 196.05,
+          "yMin": 456.821,
+          "xMax": 233.598,
+          "yMax": 467.321
+        },
+        {
+          "text": "to",
+          "xMin": 240.25,
+          "yMin": 456.821,
+          "xMax": 248.965,
+          "yMax": 467.321
+        },
+        {
+          "text": "build",
+          "xMin": 255.55,
+          "yMin": 456.821,
+          "xMax": 277.516,
+          "yMax": 467.321
+        },
+        {
+          "text": "maintenance,",
+          "xMin": 284.1,
+          "yMin": 456.821,
+          "xMax": 341.546,
+          "yMax": 467.321
+        },
+        {
+          "text": "including",
+          "xMin": 348.2,
+          "yMin": 456.821,
+          "xMax": 387.942,
+          "yMax": 467.321
+        },
+        {
+          "text": "Baidu",
+          "xMin": 394.6,
+          "yMin": 456.821,
+          "xMax": 419.968,
+          "yMax": 467.321
+        },
+        {
+          "text": "know,",
+          "xMin": 426.6,
+          "yMin": 456.821,
+          "xMax": 451.748,
+          "yMax": 467.321
+        },
+        {
+          "text": "QQ",
+          "xMin": 458.35,
+          "yMin": 456.821,
+          "xMax": 474.499,
+          "yMax": 467.321
+        },
+        {
+          "text": "space,",
+          "xMin": 481.1,
+          "yMin": 456.821,
+          "xMax": 506.888,
+          "yMax": 467.321
+        },
+        {
+          "text": "micro-blog,",
+          "xMin": 513.5,
+          "yMin": 456.821,
+          "xMax": 562.251,
+          "yMax": 467.321
+        },
+        {
+          "text": "etc.",
+          "xMin": 152.4,
+          "yMin": 474.821,
+          "xMax": 166.89,
+          "yMax": 485.321
+        },
+        {
+          "text": "2009.5-2010.6",
+          "xMin": 33.15,
+          "yMin": 492.821,
+          "xMax": 89.975,
+          "yMax": 503.321
+        },
+        {
+          "text": "Administrative",
+          "xMin": 152.4,
+          "yMin": 492.821,
+          "xMax": 216.272,
+          "yMax": 503.321
+        },
+        {
+          "text": "Assistant",
+          "xMin": 221.6,
+          "yMin": 492.821,
+          "xMax": 260.618,
+          "yMax": 503.321
+        },
+        {
+          "text": "to",
+          "xMin": 265.9,
+          "yMin": 492.821,
+          "xMax": 274.615,
+          "yMax": 503.321
+        },
+        {
+          "text": "Zhengzhou",
+          "xMin": 279.85,
+          "yMin": 492.821,
+          "xMax": 328.224,
+          "yMax": 503.321
+        },
+        {
+          "text": "culture",
+          "xMin": 333.5,
+          "yMin": 492.821,
+          "xMax": 363.163,
+          "yMax": 503.321
+        },
+        {
+          "text": "company",
+          "xMin": 368.45,
+          "yMin": 492.821,
+          "xMax": 407.174,
+          "yMax": 503.321
+        },
+        {
+          "text": "Admin",
+          "xMin": 449.15,
+          "yMin": 492.821,
+          "xMax": 478.277,
+          "yMax": 503.321
+        },
+        {
+          "text": "Assistant",
+          "xMin": 483.55,
+          "yMin": 492.821,
+          "xMax": 522.568,
+          "yMax": 503.321
+        },
+        {
+          "text": "Answer,",
+          "xMin": 152.4,
+          "yMin": 510.821,
+          "xMax": 186.525,
+          "yMax": 521.321
+        },
+        {
+          "text": "transfer",
+          "xMin": 191.8,
+          "yMin": 510.821,
+          "xMax": 225.778,
+          "yMax": 521.321
+        },
+        {
+          "text": "phone",
+          "xMin": 231.05,
+          "yMin": 510.821,
+          "xMax": 257.615,
+          "yMax": 521.321
+        },
+        {
+          "text": "calls,",
+          "xMin": 262.85,
+          "yMin": 510.821,
+          "xMax": 284.291,
+          "yMax": 521.321
+        },
+        {
+          "text": "receive",
+          "xMin": 289.55,
+          "yMin": 510.821,
+          "xMax": 318.95,
+          "yMax": 521.321
+        },
+        {
+          "text": "visitors;",
+          "xMin": 324.25,
+          "yMin": 510.821,
+          "xMax": 357.252,
+          "yMax": 521.321
+        },
+        {
+          "text": "Responsible",
+          "xMin": 152.4,
+          "yMin": 528.821,
+          "xMax": 203.293,
+          "yMax": 539.321
+        },
+        {
+          "text": "for",
+          "xMin": 208.55,
+          "yMin": 528.821,
+          "xMax": 221.496,
+          "yMax": 539.321
+        },
+        {
+          "text": "daily",
+          "xMin": 226.75,
+          "yMin": 528.821,
+          "xMax": 247.466,
+          "yMax": 539.321
+        },
+        {
+          "text": "documentation,",
+          "xMin": 252.75,
+          "yMin": 528.821,
+          "xMax": 319.698,
+          "yMax": 539.321
+        },
+        {
+          "text": "send",
+          "xMin": 325.0,
+          "yMin": 528.821,
+          "xMax": 344.31,
+          "yMax": 539.321
+        },
+        {
+          "text": "and",
+          "xMin": 349.55,
+          "yMin": 528.821,
+          "xMax": 365.793,
+          "yMax": 539.321
+        },
+        {
+          "text": "receive",
+          "xMin": 371.05,
+          "yMin": 528.821,
+          "xMax": 400.45,
+          "yMax": 539.321
+        },
+        {
+          "text": "correspondence,",
+          "xMin": 405.75,
+          "yMin": 528.821,
+          "xMax": 474.43,
+          "yMax": 539.321
+        },
+        {
+          "text": "fax,",
+          "xMin": 479.75,
+          "yMin": 528.821,
+          "xMax": 495.952,
+          "yMax": 539.321
+        },
+        {
+          "text": "email,",
+          "xMin": 501.2,
+          "yMin": 528.821,
+          "xMax": 527.25,
+          "yMax": 539.321
+        },
+        {
+          "text": "meeting",
+          "xMin": 152.4,
+          "yMin": 546.821,
+          "xMax": 186.452,
+          "yMax": 557.321
+        },
+        {
+          "text": "arrangement",
+          "xMin": 191.7,
+          "yMin": 546.821,
+          "xMax": 246.667,
+          "yMax": 557.321
+        },
+        {
+          "text": "and",
+          "xMin": 252.0,
+          "yMin": 546.821,
+          "xMax": 268.243,
+          "yMax": 557.321
+        },
+        {
+          "text": "meeting",
+          "xMin": 273.5,
+          "yMin": 546.821,
+          "xMax": 307.551,
+          "yMax": 557.321
+        },
+        {
+          "text": "minutes;",
+          "xMin": 312.8,
+          "yMin": 546.821,
+          "xMax": 348.878,
+          "yMax": 557.321
+        },
+        {
+          "text": "Responsible",
+          "xMin": 152.4,
+          "yMin": 564.821,
+          "xMax": 203.293,
+          "yMax": 575.321
+        },
+        {
+          "text": "for",
+          "xMin": 208.55,
+          "yMin": 564.821,
+          "xMax": 221.496,
+          "yMax": 575.321
+        },
+        {
+          "text": "soft",
+          "xMin": 226.75,
+          "yMin": 564.821,
+          "xMax": 243.109,
+          "yMax": 575.321
+        },
+        {
+          "text": "advertising",
+          "xMin": 248.35,
+          "yMin": 564.821,
+          "xMax": 295.642,
+          "yMax": 575.321
+        },
+        {
+          "text": "delivery,",
+          "xMin": 300.95,
+          "yMin": 564.821,
+          "xMax": 336.398,
+          "yMax": 575.321
+        },
+        {
+          "text": "customer",
+          "xMin": 341.7,
+          "yMin": 564.821,
+          "xMax": 380.56,
+          "yMax": 575.321
+        },
+        {
+          "text": "communication",
+          "xMin": 385.8,
+          "yMin": 564.821,
+          "xMax": 452.559,
+          "yMax": 575.321
+        },
+        {
+          "text": "work",
+          "xMin": 457.85,
+          "yMin": 564.821,
+          "xMax": 478.913,
+          "yMax": 575.321
+        },
+        {
+          "text": "Skill",
+          "xMin": 52.65,
+          "yMin": 579.611,
+          "xMax": 76.296,
+          "yMax": 593.611
+        },
+        {
+          "text": "certificate",
+          "xMin": 36.25,
+          "yMin": 595.611,
+          "xMax": 99.628,
+          "yMax": 609.611
+        },
+        {
+          "text": "TEM-4,",
+          "xMin": 152.4,
+          "yMin": 617.371,
+          "xMax": 184.96,
+          "yMax": 627.871
+        },
+        {
+          "text": "TEM-8,",
+          "xMin": 190.25,
+          "yMin": 617.371,
+          "xMax": 222.81,
+          "yMax": 627.871
+        },
+        {
+          "text": "excellent",
+          "xMin": 228.1,
+          "yMin": 617.371,
+          "xMax": 265.417,
+          "yMax": 627.871
+        },
+        {
+          "text": "listening",
+          "xMin": 270.75,
+          "yMin": 617.371,
+          "xMax": 307.091,
+          "yMax": 627.871
+        },
+        {
+          "text": "and",
+          "xMin": 312.4,
+          "yMin": 617.371,
+          "xMax": 328.644,
+          "yMax": 627.871
+        },
+        {
+          "text": "writing",
+          "xMin": 333.9,
+          "yMin": 617.371,
+          "xMax": 364.245,
+          "yMax": 627.871
+        },
+        {
+          "text": "ability",
+          "xMin": 369.5,
+          "yMin": 617.371,
+          "xMax": 396.495,
+          "yMax": 627.871
+        },
+        {
+          "text": "National",
+          "xMin": 152.4,
+          "yMin": 635.371,
+          "xMax": 191.082,
+          "yMax": 645.871
+        },
+        {
+          "text": "computer",
+          "xMin": 196.5,
+          "yMin": 635.371,
+          "xMax": 237.041,
+          "yMax": 645.871
+        },
+        {
+          "text": "grade",
+          "xMin": 242.45,
+          "yMin": 635.371,
+          "xMax": 266.411,
+          "yMax": 645.871
+        },
+        {
+          "text": "two,",
+          "xMin": 271.85,
+          "yMin": 635.371,
+          "xMax": 289.858,
+          "yMax": 645.871
+        },
+        {
+          "text": "familiar",
+          "xMin": 295.25,
+          "yMin": 635.371,
+          "xMax": 330.215,
+          "yMax": 645.871
+        },
+        {
+          "text": "with",
+          "xMin": 335.65,
+          "yMin": 635.371,
+          "xMax": 354.392,
+          "yMax": 645.871
+        },
+        {
+          "text": "the",
+          "xMin": 359.8,
+          "yMin": 635.371,
+          "xMax": 373.24,
+          "yMax": 645.871
+        },
+        {
+          "text": "operation",
+          "xMin": 378.65,
+          "yMin": 635.371,
+          "xMax": 420.262,
+          "yMax": 645.871
+        },
+        {
+          "text": "of",
+          "xMin": 425.7,
+          "yMin": 635.371,
+          "xMax": 434.877,
+          "yMax": 645.871
+        },
+        {
+          "text": "the",
+          "xMin": 440.25,
+          "yMin": 635.371,
+          "xMax": 453.69,
+          "yMax": 645.871
+        },
+        {
+          "text": "computer,",
+          "xMin": 459.1,
+          "yMin": 635.371,
+          "xMax": 501.94,
+          "yMax": 645.871
+        },
+        {
+          "text": "proficient",
+          "xMin": 507.35,
+          "yMin": 635.371,
+          "xMax": 548.321,
+          "yMax": 645.871
+        },
+        {
+          "text": "in",
+          "xMin": 553.75,
+          "yMin": 635.371,
+          "xMax": 562.139,
+          "yMax": 645.871
+        },
+        {
+          "text": "Word",
+          "xMin": 152.4,
+          "yMin": 653.371,
+          "xMax": 176.371,
+          "yMax": 663.871
+        },
+        {
+          "text": "2013,",
+          "xMin": 181.65,
+          "yMin": 653.371,
+          "xMax": 203.595,
+          "yMax": 663.871
+        },
+        {
+          "text": "Excel2013",
+          "xMin": 208.85,
+          "yMin": 653.371,
+          "xMax": 251.879,
+          "yMax": 663.871
+        },
+        {
+          "text": "and",
+          "xMin": 257.2,
+          "yMin": 653.371,
+          "xMax": 273.443,
+          "yMax": 663.871
+        },
+        {
+          "text": "PowerPoint",
+          "xMin": 278.7,
+          "yMin": 653.371,
+          "xMax": 328.323,
+          "yMax": 663.871
+        },
+        {
+          "text": "2013",
+          "xMin": 333.6,
+          "yMin": 653.371,
+          "xMax": 353.267,
+          "yMax": 663.871
+        },
+        {
+          "text": "and",
+          "xMin": 358.5,
+          "yMin": 653.371,
+          "xMax": 374.743,
+          "yMax": 663.871
+        },
+        {
+          "text": "other",
+          "xMin": 380.0,
+          "yMin": 653.371,
+          "xMax": 402.586,
+          "yMax": 663.871
+        },
+        {
+          "text": "software",
+          "xMin": 407.85,
+          "yMin": 653.371,
+          "xMax": 444.831,
+          "yMax": 663.871
+        },
+        {
+          "text": "Awards",
+          "xMin": 45.05,
+          "yMin": 674.611,
+          "xMax": 90.928,
+          "yMax": 688.611
+        },
+        {
+          "text": "20XX",
+          "xMin": 152.4,
+          "yMin": 701.421,
+          "xMax": 177.065,
+          "yMax": 711.921
+        },
+        {
+          "text": "was",
+          "xMin": 182.3,
+          "yMin": 701.421,
+          "xMax": 198.439,
+          "yMax": 711.921
+        },
+        {
+          "text": "awarded",
+          "xMin": 203.65,
+          "yMin": 701.421,
+          "xMax": 240.327,
+          "yMax": 711.921
+        },
+        {
+          "text": "the",
+          "xMin": 245.6,
+          "yMin": 701.421,
+          "xMax": 259.04,
+          "yMax": 711.921
+        },
+        {
+          "text": "two",
+          "xMin": 264.3,
+          "yMin": 701.421,
+          "xMax": 280.019,
+          "yMax": 711.921
+        },
+        {
+          "text": "grade",
+          "xMin": 285.25,
+          "yMin": 701.421,
+          "xMax": 309.211,
+          "yMax": 711.921
+        },
+        {
+          "text": "school",
+          "xMin": 314.5,
+          "yMin": 701.421,
+          "xMax": 341.789,
+          "yMax": 711.921
+        },
+        {
+          "text": "scholarship",
+          "xMin": 347.05,
+          "yMin": 701.421,
+          "xMax": 395.822,
+          "yMax": 711.921
+        },
+        {
+          "text": "20XX",
+          "xMin": 152.4,
+          "yMin": 719.421,
+          "xMax": 177.065,
+          "yMax": 729.921
+        },
+        {
+          "text": "won",
+          "xMin": 182.3,
+          "yMin": 719.421,
+          "xMax": 200.244,
+          "yMax": 729.921
+        },
+        {
+          "text": "the",
+          "xMin": 205.5,
+          "yMin": 719.421,
+          "xMax": 218.94,
+          "yMax": 729.921
+        },
+        {
+          "text": "two",
+          "xMin": 224.2,
+          "yMin": 719.421,
+          "xMax": 239.918,
+          "yMax": 729.921
+        },
+        {
+          "text": "prize",
+          "xMin": 245.15,
+          "yMin": 719.421,
+          "xMax": 266.276,
+          "yMax": 729.921
+        },
+        {
+          "text": "in",
+          "xMin": 271.55,
+          "yMin": 719.421,
+          "xMax": 279.94,
+          "yMax": 729.921
+        },
+        {
+          "text": "the",
+          "xMin": 285.2,
+          "yMin": 719.421,
+          "xMax": 298.64,
+          "yMax": 729.921
+        },
+        {
+          "text": "English",
+          "xMin": 303.9,
+          "yMin": 719.421,
+          "xMax": 336.387,
+          "yMax": 729.921
+        },
+        {
+          "text": "speech",
+          "xMin": 341.7,
+          "yMin": 719.421,
+          "xMax": 370.008,
+          "yMax": 729.921
+        },
+        {
+          "text": "contest",
+          "xMin": 375.25,
+          "yMin": 719.421,
+          "xMax": 405.584,
+          "yMax": 729.921
+        },
+        {
+          "text": "20XX",
+          "xMin": 152.4,
+          "yMin": 737.421,
+          "xMax": 177.065,
+          "yMax": 747.921
+        },
+        {
+          "text": "outstanding",
+          "xMin": 182.3,
+          "yMin": 737.421,
+          "xMax": 233.288,
+          "yMax": 747.921
+        },
+        {
+          "text": "Intern",
+          "xMin": 238.55,
+          "yMin": 737.421,
+          "xMax": 265.062,
+          "yMax": 747.921
+        },
+        {
+          "text": "20XX",
+          "xMin": 152.4,
+          "yMin": 755.421,
+          "xMax": 177.065,
+          "yMax": 765.921
+        },
+        {
+          "text": "years",
+          "xMin": 182.3,
+          "yMin": 755.421,
+          "xMax": 204.108,
+          "yMax": 765.921
+        },
+        {
+          "text": "of",
+          "xMin": 209.4,
+          "yMin": 755.421,
+          "xMax": 218.577,
+          "yMax": 765.921
+        },
+        {
+          "text": "excellent",
+          "xMin": 223.8,
+          "yMin": 755.421,
+          "xMax": 261.117,
+          "yMax": 765.921
+        },
+        {
+          "text": "graduation",
+          "xMin": 266.45,
+          "yMin": 755.421,
+          "xMax": 313.742,
+          "yMax": 765.921
+        },
+        {
+          "text": "thesis",
+          "xMin": 319.05,
+          "yMin": 755.421,
+          "xMax": 342.969,
+          "yMax": 765.921
+        }
+      ]
+    }
+  ]
+}
